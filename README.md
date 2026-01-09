@@ -8,11 +8,11 @@ Ardit Uka
 
 # Why
 
-We are going to make a current mirror <explain why you made this module>
+Current Mirror
 
 # How
 
-CJM <explain short how you made this module>
+Followed a turtorial made by Carsten Wulff
 
 
 # What
