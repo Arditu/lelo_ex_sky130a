@@ -4,11 +4,11 @@
 [![DOCS](../../actions/workflows/docs.yaml/badge.svg)](../../actions/workflows/docs.yaml)
 
 # Who
-ardiu
+Ardit Uka
 
 # Why
 
-<explain why you made this module>
+We are going to make a current mirror <explain why you made this module>
 
 # How
 
