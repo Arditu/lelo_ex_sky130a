@@ -12,7 +12,7 @@ We are going to make a current mirror <explain why you made this module>
 
 # How
 
-<explain short how you made this module>
+CJM <explain short how you made this module>
 
 
 # What
