@@ -8,7 +8,7 @@ Ardit Uka
 
 # Why
 
-Current Mirror
+Current Mirror Design
 
 # How
 
